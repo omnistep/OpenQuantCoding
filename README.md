@@ -1,6 +1,6 @@
 # A Step by Step Guide to OpenQuant...
 
-# ![](/assets/StepbyStepGuide.png)
+# ![](assets/StepbyStepGuide.png)
 
 # 
 
